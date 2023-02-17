@@ -1,0 +1,89 @@
+/* Whole body */
+body {
+    background-color: rgb(205, 224, 141);
+    align-items: center;
+}
+
+/* Notes Diary heading */
+.navbar-brand {
+    font-family: sans-serif;
+    font-size: 40px;
+}
+
+/* Date Time */
+#live {
+    font-size: 20px;
+    color: blueviolet;
+
+}
+
+/* Welcome To Notes Diary!!! */
+h1 {
+    margin-left: 25%;
+    font-size: 30px;
+}
+
+/* Title portion */
+input {
+    border-radius: 5px;
+    align-self: center;
+    margin-bottom: 5px;
+}
+
+/* Text portion */
+#addText {
+    border-radius: 10px;
+}
+
+
+/* Add Note Button */
+#addBtn {
+    border-radius: 10px;
+    color: rgb(41, 223, 53);
+}
+
+/* Search Button */
+a {
+    margin-left: 33%;
+    align-content: center;
+}
+
+/* The Notes to be added */
+.card-body {
+    background-color: rgb(186, 150, 219);
+}
+
+
+/* Added notes */
+p {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+
+/* Title content */
+.card {
+    font-size: 20px;
+    background-color: antiquewhite;
+    /* text-align: center; */
+}
+
+
+/* Notes content */
+.card-text {
+    font-style: normal;
+    font-size: 16px;
+    color: rgb(50, 50, 50);
+}
+
+/* Delete Button */
+.del {
+    background-color: #007bff;
+    border-color: #007bff;
+    border-radius: 10px;
+    color: rgb(238, 23, 30);
+    font-weight: 45px;
+    font-size: 15px;
+}
