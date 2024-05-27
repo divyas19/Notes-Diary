@@ -6,3 +6,5 @@ One can search the notes based on the contents.
 Adding title, deleting and searching is handled through JavaScript.
 
 Technologies Used: JavaScript, CSS, HTML
+
+Link - https://notesdiary.netlify.app/
